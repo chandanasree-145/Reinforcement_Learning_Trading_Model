@@ -1,0 +1,9 @@
+stable-baselines3
+tensorflow
+gym
+gym-anytrading
+shimmy>=0.2.1
+fastapi
+uvicorn
+finta
+quantstats
